@@ -1,38 +1,27 @@
-# ==========================
 # Python
-# ==========================
 backend/venv/
 **/__pycache__/
 *.py[cod]
 *.pyo
 
-# ==========================
-# Environment Variables
-# ==========================
+# Environment
 backend/.env
 
-# ==========================
 # VS Code
-# ==========================
 .vscode/
 
-# ==========================
+# IDE
+.idea/
+
 # Pytest
-# ==========================
 .pytest_cache/
 
-# ==========================
-# Alembic Cache
-# ==========================
+# Alembic
 backend/alembic/__pycache__/
 
-# ==========================
-# Temporary Files
-# ==========================
+# Temporary
 backend/structure.txt
 
-# ==========================
-# OS Files
-# ==========================
-.DS_Store
+# OS
 Thumbs.db
+.DS_Store
