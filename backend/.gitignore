@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Alembic cache
+*.pyc
+
+# Build
+dist/
+build/
+
+# MyPy
+.mypy_cache/
